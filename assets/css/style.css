@@ -154,7 +154,6 @@ footer {
   text-align: center;
   background: #666666;
   border-top: 8px solid #4aaaa5;
-  height: 50px;
 }
 
 h3, h2 {
@@ -198,7 +197,7 @@ h3,
 /* main */
 
 #main-container {
-  padding-top: 30px;
+  padding-top: 130px;
 }
 
 .main-section {
