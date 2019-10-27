@@ -292,13 +292,13 @@ margin-right: 25px;
 }
 
 @media screen and (max-width: 640px) {
-  /* The body's bg color will be #333 */
   body {
     background-color: #333;
   }
 
-  /* The wrapper's width will be 600px */
-  .wrapper {
-    width: 600px;
+  .main-section {
+    width: 100%;
   }
+
+
 }
